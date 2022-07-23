@@ -16,7 +16,7 @@
 ```commandline
 
 
-1. git clone "" 
+1. git clone https://github.com/prasad4776/IOT
 2. cd iot_project
 3. pip install -r requirements.txt 
 4. python manage.py makemigrations
